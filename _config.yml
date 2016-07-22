@@ -6,9 +6,14 @@ color:
   saturation: 0.6137142335064709
   rhythmicContrast: 0.18101141951046884
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: Baby Signs
+navigation:
+  - id: 'https://www.babygebaren.nl/'
+    url: 'https://www.babygebaren.nl/'
+    name: Interst
+    type: external
